@@ -1,5 +1,5 @@
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=600&lines=Hello%2C+welcome+to+my+GitHub.+My+name+is+Subhan!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=1000&lines=Hello%2C+welcome+to+my+GitHub.+My+name+is+Subhan!)
 <!--
 **subhan-razzaq/subhan-razzaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
