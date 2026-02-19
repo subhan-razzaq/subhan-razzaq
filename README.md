@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=900&center=true&vCenter=true&color=FFFFFF&lines=Welcome+to+my+GitHub.+My+name+is+Subhan!;Building+Intelligent+Hardware+Systems;Embedded+•+Product+Design+•+Digital+Logic+•+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today;Building+Intelligent+Hardware+Systems;Embedded+•+Edge+AI+•+Product+Design+•+Digital+Logic+•+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=900&center=true&vCenter=true&color=FFFFFF&lines=Welcome+to+my+GitHub.+My+name+is+Subhan!;Building+Intelligent+Hardware+Systems;Embedded+•+Product+Design+•+Digital+Logic+•+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today;Building+Intelligent+Hardware+Systems;Embedded+•+Product+Design+•+Digital+Logic+•+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today)
 
 </div>
 
