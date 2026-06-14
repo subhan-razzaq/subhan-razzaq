@@ -1,7 +1,10 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=900&center=true&vCenter=true&color=FFFFFF&lines=Welcome+to+my+GitHub.+My+name+is+Subhan!;Building+Intelligent+Hardware+Systems;Embedded+•+Product+Design+•+Digital+Logic+•+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today;Building+Intelligent+Hardware+Systems;Embedded+•+Product+Design+•+Digital+Logic+•+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=900&center=true&vCenter=true&color=FFFFFF&lines=Welcome+to+my+GitHub.+My+name+is+Subhan!;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=900&center=true&vCenter=true&color=1F2328&lines=Welcome+to+my+GitHub.+My+name+is+Subhan!;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today">
+  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=900&center=true&vCenter=true&color=1F2328&lines=Welcome+to+my+GitHub.+My+name+is+Subhan!;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today">
+</picture>
 </div>
 
 
