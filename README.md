@@ -11,7 +11,7 @@
 # 💫 About Me:
 
 <p>
-I'm a Second-Year Electrical Engineering Student at McMaster University focused on embedded systems, FPGA design, and AI-integrated hardware. My interests include building end-to-end systems, from PCB design to backend infrastructure and intelligent applications while working with AI at the edge.
+I'm a Third-Year Electrical Engineering Student at McMaster University focused on embedded systems, FPGA design, and AI-integrated hardware. My interests include building end-to-end systems, from PCB design to backend infrastructure and intelligent applications while working with AI at the edge.
 </p>
 
 <p>
