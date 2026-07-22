@@ -21,8 +21,10 @@ I'm driven to develop innovative, full-stack hardware products that solve the pr
 </div>
 
 Some Clubs I'm In:
-- 🚀👨🏽‍🚀 McMaster Rocketry
-- 🧪⚙️ McMaster Chem-E-Car
+- 🚀👨🏽‍🚀 McMaster Rocketry (Avionics/Controls Subteam)
+
+Some Clubs I was Previously In:
+- 🧪⚙️ McMaster Chem-E-Car (Circuitry Subteam)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhanrazzaq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhanrazzaq777@gmail.com) 
