@@ -8,15 +8,13 @@
 
 </div>
 
-I design hardware end to end. Right now that means RTL on an FPGA, firmware on ARM microcontrollers, and the boards underneath both. I care most about the layer where architecture meets silicon, so most of what is here is digital logic, embedded systems, and the tooling I write to understand them better.
-
-Third-year electrical engineering at McMaster University in Hamilton, Ontario.
+I design and create innovative solutions to real-life problems while focusing on several key industries. My focus comes to computer architecture, hardware engineering, PCB design, and embedded systems. Some of the industries I hope to work in are computer architecture, silicon development, and space systems. I build end to end systems that allow me to learn all facets of development.. Right now, that means RTL on an FPGA, firmware on microcontrollers, PCB design, and frontend development. I care most about the layer where architecture meets silicon, so most of what I do is digital logic, embedded systems, and the tooling I write to understand them better.
 
 ### Past Co-op
 
 **Electrical Lab Facilitator**, McMaster Engineering Community Outreach. This past summer, May to August 2026.
 
-Designed and ran hands-on electronics workshops for students in grades 2 through 12, covering circuit building, digital logic, and soldering. Built the hardware for a 25-station camp, 400 boards across two designs, a 555 astable LED board and a 74HC-series 4-bit adder, each taken from schematic through DRC to fabrication.
+As the sole Electrical Lab Facilitator, I designed and ran hands-on electronics workshops for students in grades 2 through 12, covering circuit building, digital logic, and soldering. I built the hardware for a 25-station soldering workshop which involved 400+ PCBs across two designs, a 555 astable LED board and a 74HC-series 4-bit adder, each taken from schematic through DRC to fabrication. Besides the extensive project development done using breadboards and PCBs, I authored technical documentation for each electrical and 3D printing project and developed a curriculum that spread across 4 grade bands. This involved various different instructional slide shows that were made sure to be effective for that specific grade range.
 
 ### Clubs
 
@@ -32,7 +30,7 @@ Some Clubs I was Previously In:
 
 A five stage RISC-V core in Verilog with hazard detection and forwarding, extended with an 8x8 INT8 systolic array that runs MNIST inference on the fabric. The header above is this design.
 
-Current phase: toolchain and board bring-up. Every stage ships with its testbenches, synthesis and timing reports, and hardware proof rather than a simulation screenshot.
+Current phase: toolchain and board bring-up.
 
 ### Toolbox
 
