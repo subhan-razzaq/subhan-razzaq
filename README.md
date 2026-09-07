@@ -1,24 +1,24 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=900&center=true&vCenter=true&color=FFFFFF&lines=Welcome+to+my+GitHub.+My+name+is+Subhan!;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=900&center=true&vCenter=true&color=1F2328&lines=Welcome+to+my+GitHub.+My+name+is+Subhan!;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today">
-  <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&width=900&center=true&vCenter=true&color=1F2328&lines=Welcome+to+my+GitHub.+My+name+is+Subhan!;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today;Building+Intelligent+Hardware+Systems;Embedded+%E2%80%A2+Product+Design+%E2%80%A2+Digital+Logic+%E2%80%A2+FPGA;Designing+Full-Stack+Hardware;Addressing+the+Problems+of+Today">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhan-razzaq/subhan-razzaq/main/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhan-razzaq/subhan-razzaq/main/header-light.svg">
+  <img alt="Subhan Razzaq. A five stage RISC-V pipeline advancing instructions, with a load-use hazard inserting one stall cycle." src="https://raw.githubusercontent.com/subhan-razzaq/subhan-razzaq/main/header-light.svg" width="880">
 </picture>
-</div>
-
-
-# 💫 About Me:
-
-<p>
-I'm a Third-Year Electrical Engineering Student at McMaster University focused on embedded systems, FPGA design, and AI-integrated hardware. My interests include building end-to-end systems, from PCB design to backend infrastructure and intelligent applications while working with AI at the edge.
-</p>
-
-<p>
-I'm driven to develop innovative, full-stack hardware products that solve the problems of today while preparing for the technologies of tomorrow.
-</p>
 
 </div>
+
+I design hardware end to end. Right now that means RTL on an FPGA, firmware on ARM microcontrollers, and the boards underneath both. I care most about the layer where architecture meets silicon, so most of what is here is digital logic, embedded systems, and the tooling I write to understand them better.
+
+Third-year electrical engineering at McMaster University in Hamilton, Ontario.
+
+### Past Co-op
+
+**Electrical Lab Facilitator**, McMaster Engineering Community Outreach. This past summer, May to August 2026.
+
+Designed and ran hands-on electronics workshops for students in grades 2 through 12, covering circuit building, digital logic, and soldering. Built the hardware for a 25-station camp, 400 boards across two designs, a 555 astable LED board and a 74HC-series 4-bit adder, each taken from schematic through DRC to fabrication.
+
+### Clubs
 
 Some Clubs I'm In:
 - 🚀👨🏽‍🚀 McMaster Rocketry (Avionics/Controls Subteam)
@@ -26,35 +26,78 @@ Some Clubs I'm In:
 Some Clubs I was Previously In:
 - 🧪⚙️ McMaster Chem-E-Car (Circuitry Subteam)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhanrazzaq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subhanrazzaq777@gmail.com) 
+### Building Now
 
-# 💻 Tech Stack:
+**RV32I pipelined SoC with an INT8 systolic array accelerator** on a Basys 3.
 
-**Hardware & FPGA**
+A five stage RISC-V core in Verilog with hazard detection and forwarding, extended with an 8x8 INT8 systolic array that runs MNIST inference on the fabric. The header above is this design.
 
-![Verilog](https://img.shields.io/badge/Verilog-121011?style=for-the-badge) ![Vivado](https://img.shields.io/badge/Vivado-E32219?style=for-the-badge) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) ![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white) ![LTspice](https://img.shields.io/badge/LTspice-0071C5?style=for-the-badge)
+Current phase: toolchain and board bring-up. Every stage ships with its testbenches, synthesis and timing reports, and hardware proof rather than a simulation screenshot.
 
-**Embedded & Firmware**
+### Toolbox
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![ARM](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+**Digital Design**
+
+![Verilog](https://img.shields.io/badge/Verilog-121011?style=for-the-badge)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-121011?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-E32219?style=for-the-badge)
+![Artix-7](https://img.shields.io/badge/Artix--7-1F6FEB?style=for-the-badge)
+
+**Embedded and Firmware**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Boards and Analog**
+
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-0071C5?style=for-the-badge)
 
 **Languages**
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-**Web & App**
+**Web and App**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Data & ML**
+**Data and ML**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Infrastructure & Databases**
+**Infrastructure and Tools**
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
-**Tools & Design**
+<div align="center">
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-F26522?style=for-the-badge&logo=autodesk&logoColor=white) ![Ansys Granta](https://img.shields.io/badge/Ansys_Granta-FFB71B?style=for-the-badge) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/subhan-razzaq/subhan-razzaq/main/contact-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/subhan-razzaq/subhan-razzaq/main/contact-light.svg">
+  <img alt="Contact" src="https://raw.githubusercontent.com/subhan-razzaq/subhan-razzaq/main/contact-light.svg" width="880">
+</picture>
+
+<a href="https://linkedin.com/in/subhanrazzaq"><img src="https://raw.githubusercontent.com/subhan-razzaq/subhan-razzaq/main/icon-linkedin.svg" alt="LinkedIn" width="52" height="52"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:subhanrazzaq777@gmail.com"><img src="https://raw.githubusercontent.com/subhan-razzaq/subhan-razzaq/main/icon-email.svg" alt="Email" width="52" height="52"></a>
+
+</div>
