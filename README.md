@@ -26,9 +26,9 @@ Some Clubs I was Previously In:
 
 ### Building Now
 
-**RV32I pipelined SoC with an INT8 systolic array accelerator** on a Basys 3.
+**RV32I single-cycle RISC-V CPU on a Basys 3.
 
-A five stage RISC-V core in Verilog with hazard detection and forwarding, extended with an 8x8 INT8 systolic array that runs MNIST inference on the fabric. The header above is this design.
+A single-cycle RV32I core in Verilog that executes every base integer instruction in one clock. Verified in simulation against the RISC-V test suite and running programs on the Artix-7 fabric.
 
 Current phase: toolchain and board bring-up.
 
